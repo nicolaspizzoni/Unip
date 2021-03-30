@@ -4,3 +4,5 @@ Ola mundo
 
 Nova linha irmão
 2-Nova linha
+
+function getdadosCliente() {}
